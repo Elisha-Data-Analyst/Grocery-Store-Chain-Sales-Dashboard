@@ -1,11 +1,11 @@
-# ☕ Regional Sales and Store Analytics Dashboard (Excel)
+# ☕ Grocery Store Chain Sales Dashboard (Excel)
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Analytics](https://img.shields.io/badge/Data_Analytics-Dashboard-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
 ## 📊 Project Overview
-This project showcases an **interactive Grocery Store Sales Dashboard** built entirely using **Microsoft Excel**. The dashboard helps analyze sales performance, regional distributions, and product trends using real-world transactional data.
+This project showcases an **interactive Grocery Store Chain Sales Dashboard** built entirely using **Microsoft Excel**. The dashboard helps analyze sales performance, regional distributions, and product trends using real-world transactional data.
 
 ---
 
